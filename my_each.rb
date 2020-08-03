@@ -10,7 +10,7 @@ def my_each(array)
   array
 end
 
-my_each
+my_each(list)
 
 # Use the collection method 
 # To make the *return-value* the answer you want
