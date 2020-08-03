@@ -11,7 +11,7 @@ end
 
 my_each(list) {|i|}
 
-def my_each(array)
+def hello(array)
   i = 0
   collection = []
   while i < array.length
