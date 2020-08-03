@@ -10,15 +10,3 @@ def my_each(array)
 end
 
 my_each(list) {|i|}
-
-# def hello(array)
-#   i = 0
-#   collection = []
-#   while i < array.length
-#     collection << yield(array[i])
-#     i += 1
-#   end
-#   collection
-# end
-
-# hello(list) {|i|}
